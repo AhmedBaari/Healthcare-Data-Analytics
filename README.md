@@ -1,6 +1,6 @@
 # Healthcare Data Analytics
 
-
+Note: Ex 9 is cancelled.
 
 ## Contents
 
@@ -33,16 +33,3 @@
    - Named Entity Recognition using spaCy
    - Sentiment analysis of medical narratives
 
-## Requirements
-
-The project uses Python libraries including:
-- pandas
-- numpy 
-- matplotlib
-- scikit-learn
-- OpenCV
-- NLTK
-- spaCy
-- WordCloud
-
-Original code by Raghavender Ganesh with updates for improved documentation and readability.
